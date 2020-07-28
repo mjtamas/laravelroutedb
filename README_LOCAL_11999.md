@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -60,18 +59,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# laravelroutedb
-This is a training project in laravel.
-
-Prerequisites done:
-  - installing php,mysql, composer
-  - installing laravel
-  - installing linux valet
-
-Tasks done:
-  - routing
-  - setting up a Database acces
-      -migrations
-  - learning about Business Logic
->>>>>>> 9173faf83dc4e6d92eed26d4fcc77f0e76cdd0f8
