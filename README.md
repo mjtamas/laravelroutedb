@@ -2,9 +2,9 @@
 This is a training project in laravel.
 
 Prerequisites done:
-  -installing php,mysql, composer
-  -installing laravel
-  -installing linux valet
+  - installing php,mysql, composer
+  - installing laravel
+  - installing linux valet
 
 Tasks done:
   - routing
